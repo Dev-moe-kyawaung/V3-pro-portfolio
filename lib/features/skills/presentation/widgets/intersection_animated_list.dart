@@ -1,0 +1,1 @@
+// Intersection animated list widget

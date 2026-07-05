@@ -1,0 +1,1 @@
+// App collection card widget

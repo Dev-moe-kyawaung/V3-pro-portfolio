@@ -1,0 +1,1 @@
+// Hero stats badges widget

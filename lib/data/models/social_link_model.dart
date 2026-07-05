@@ -1,0 +1,1 @@
+// Social link data model

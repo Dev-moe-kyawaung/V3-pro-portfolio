@@ -1,0 +1,1 @@
+// Sticky navigation bar widget

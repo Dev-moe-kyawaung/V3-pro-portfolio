@@ -1,0 +1,1 @@
+// Skill progress item widget

@@ -1,0 +1,1 @@
+// Social icon widget
